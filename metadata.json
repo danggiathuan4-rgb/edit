@@ -1,0 +1,6 @@
+{
+  "name": "AI Background and Watermark Eraser",
+  "description": "Professional tool to erase photo backgrounds and remove watermarks from videos and images with high quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
